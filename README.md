@@ -21,23 +21,25 @@ Personal developer homepage built with Next.js. This site reflects my workflow, 
 
 ### Clone the repository
 
-git clone https://github.com/youngcoder45/youngcoder45.github.io.git
-cd youngcoder45.github.io
+`git clone https://github.com/youngcoder45/youngcoder45.github.io.git`
+
+## Then change your working directory
+`cd youngcoder45.github.io`
 
 ### Install dependencies
 
-npm install
+`npm install` or `pnpm install`
 
 ### Run development server
 
-npm run dev
+`npm run dev`
 
 Open http://localhost:3000 in your browser.
 
 ## Build
 
-npm run build
-npm start
+`npm run build`
+`npm start`
 
 ## Deployment
 
@@ -45,7 +47,7 @@ Deployed on Vercel. Push to main branch to trigger deployment.
 
 ## Project Structure
 
-* app/ → main pages (App Router)
+* app/ → main pages (App Router) (Needs to be specified on vercel if not detected automatically)
 * public/ → static assets
 * styles/ → global styles
 
