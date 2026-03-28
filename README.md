@@ -1,6 +1,6 @@
 ## Aditya Verma
 
-Personal developer homepage built with Next.js. This site reflects my workflow, projects, and interests in systems programming, AI, and fullstack development.
+Personal developer homepage built with Next.js. This site reflects my workflow, projects, and interests in systems programming, AI, and fullstack development
 
 ## Tech Stack
 
